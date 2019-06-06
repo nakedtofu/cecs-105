@@ -1,0 +1,45 @@
+body {
+  background-color:beige;
+  
+}
+
+h1 {
+  color:darkslategray;
+  text-align: center;
+  border: 6px solid pink;
+  background-color:coral;
+}
+
+#progExHead {
+  color: gold;
+  border: 2px solid lightgreen;
+}
+
+#linkHead {
+  color: blue;
+  border: 2px solid orange;
+}
+
+p {
+  color: darkcyan;
+  background-color: aquamarine
+}
+
+ul.lists{
+  color: cadetblue;
+  background-color:floralwhite;
+}
+
+a{
+  color:aqua;
+  font-size: 6;
+}
+
+a:visited {
+  color: hotpink;
+}
+
+span {
+    color: red;
+    text-decoration: underline;
+}
